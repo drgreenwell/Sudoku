@@ -8,8 +8,8 @@ The purpose of this program was to create an interactive Sudoku game in Python t
 
 # Development Environment
 
-- **Development Tools**: Visual Studio Code, Python 3.11, Tkinter for GUI, Pygame for sound effects
-- **Programming Language**: Python
+- **Development Tools**: Visual Studio Code
+- **Programming Language**: Python 3.11
 - **Libraries**: 
   - `tkinter` for creating the graphical interface
   - `random` for generating puzzles
