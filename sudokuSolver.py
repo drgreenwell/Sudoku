@@ -14,7 +14,7 @@ class SudokuSolver:
         self.create_grid()
         self.create_buttons()
         pygame.mixer.init()
-        self.error_sound = pygame.mixer.Sound("error.wav")  # Ensure you have an 'error.wav' sound file in the same directory
+        self.error_sound = pygame.mixer.Sound("error.mp3")
 
     def create_grid(self):
         """
