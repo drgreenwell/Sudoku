@@ -4,7 +4,7 @@ This project is a Sudoku puzzle solver and generator game developed using Python
 
 The purpose of this program was to create an interactive Sudoku game in Python that provides a fun and educational experience for players of all ages.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Sudoku Solver Demo Video](https://youtu.be/7m-RLAzsC8k)
 
 # Development Environment
 
@@ -18,9 +18,9 @@ The purpose of this program was to create an interactive Sudoku game in Python t
 # Useful Websites
 
 - [Python Official Documentation](https://docs.python.org/3/)
-- [Tkinter Documentation](https://tkdocs.com/)
-- [Pygame Documentation](https://www.pygame.org/docs/)
 - [Sudoku Wiki](https://www.sudokuwiki.org/)
+- [NeuralNine's "Sudoku Solver in Python" video](https://www.youtube.com/watch?v=b_T-brYofN4)
+- [NeetCode's "Valid Sudoku" video](https://www.youtube.com/watch?v=TjFXEUCMqI8)
 
 # Future Work
 
